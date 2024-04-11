@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.929" height="22.057" viewBox="0 0 16.929 22.057">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #888;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="그룹_32339" data-name="그룹 32339" transform="translate(0.976 1)">
+    <path id="패스_4253" data-name="패스 4253" class="cls-1" d="M2350.82-91.781a2.686,2.686,0,0,0,2.68,2.681,2.686,2.686,0,0,0,2.686-2.686" transform="translate(-2346.016 109.407)"/>
+    <line id="선_45" data-name="선 45" class="cls-1" y1="2.941" transform="translate(7.487 -1)"/>
+    <path id="패스_6542" data-name="패스 6542" class="cls-1" d="M2358.012-99.581v-4.083a6.587,6.587,0,0,0-6.664-6.507,6.587,6.587,0,0,0-6.664,6.507v4.083l-.824,3.09h14.976Z" transform="translate(-2343.86 113.112)"/>
+  </g>
+</svg>
